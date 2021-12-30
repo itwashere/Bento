@@ -40,14 +40,14 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
+      name: 'Archive of our own',
       icon: 'book-open',
       link: 'https://archiveofourown.org',
     },
     {
       id: '2',
       name: 'Reddit',
-      icon: 'glasses',
+      icon: 'gitlab',
       link: 'https://www.reddit.com/',
     },
     {
