@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: '¡A mimir!',
 
   // Weather
-  weatherKey: '2518559',
+  weatherKey: 'InsertYourAPIKeyHere2518559',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -41,38 +41,38 @@ const CONFIG = {
     {
       id: '1',
       name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      icon: 'book-open',
+      link: 'https://archiveofourown.org',
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      name: 'Reddit',
+      icon: 'glasses',
+      link: 'https://www.reddit.com/',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
+      name: 'Youtube',
+      icon: 'youtube',
+      link: 'https://www.youtube.com/',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Twitter',
+      icon: 'twitter',
+      link: 'https://twitter.com',
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'glasses',
-      link: 'https://reddit.com',
+      name: 'Tumblr',
+      icon: 'repeat',
+      link: 'https://tumblr.com',
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Whatsapp',
+      icon: 'message-square',
+      link: 'https://web.whatsapp.com/',
     },
   ],
 
