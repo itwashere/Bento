@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: '¡A mimir!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere2518559',
+  weatherKey: '2518559',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
